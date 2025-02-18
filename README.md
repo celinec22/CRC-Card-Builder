@@ -1,6 +1,6 @@
 # CRC Card Builder App
 ### Overview
-The CRC Card Builder App is a web application built with Vite and React, designed to facilitate the creation and management of Class Responsibility Collaboration (CRC) cards. CRC cards are a brainstorming tool used in object-oriented design to describe classes in a system and their responsibilities and collaborations. This application provides a digital platform to create, edit, and organize CRC cards for software development projects.
+The CRC Card Builder App is a web application built with Vite and React, designed to facilitate the creation and management of Class Responsibility Collaboration (CRC) cards. CRC cards are a brainstorming tool used in object-oriented design to describe classes in a system and their responsibilities and collaborations. This application provides a digital platform to create, edit, and organize CRC cards for software development projects. This Project uses Javascript, HTML,and Tailwind CSS.
 
 ### Features
 #### Create CRC Cards: Easily create new CRC cards by defining class names, responsibilities, and collaborations.
